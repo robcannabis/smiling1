@@ -37,10 +37,10 @@ client.on('ready', async () => {
     const change = ['https://cdn.discordapp.com/attachments/1176194821698879608/1213195868916678736/v1241.gif?ex=661981b3&is=66070cb3&hm=bb4fc6a47a35c91c1d7a6200392d2cfa4195bf35b763a12e9384f76d257ddfad&']; //รูปใหญ่
      //const poop = ['https://cdn.discordapp.com/attachments/1114551993499918438/1122462459710681170/1095697715238797403.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460817977395/1095697740543049819.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460125921341/1095697719189844048.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1116029023957561425/1110570045454696509.gif']; // รูปเล็ก
     const change2 = [' ']; // ชื่อสลับ
-    const yyyt = ['My Server ♡']; // ชื่อ button1
-    const ddds = ['https://discord.gg/qPJt25MVEs']; // ลิ้ง button1
+    const yyyt = ['Smiling·˚ ༘']; // ชื่อ button1
+    const ddds = ['https://youtube.com/@smiling23?si=YGr3YSSafKuJgLBE']; // ลิ้ง button1
 
-   const iooi = ['Discord ·˚ ༘']; // ชื่อ button 2
+   const iooi = ['Join My Server ♡']; // ชื่อ button 2
    const iiio = ['https://discord.gg/jvbMspxG93']; // ลิ้ง button 2
    const tyyy = yyyt[Math.floor(Math.random()*yyyt.length)]; // ชื่อ button 2
    const sddd = ddds[Math.floor(Math.random()*ddds.length)]; // ลิ้ง button 2
@@ -59,7 +59,7 @@ change[Math.floor(Math.random()*change.length)]; // รูปใหญ่
       .setURL('https://www.youtube.com/watch?v=yFg7_bjl2-k')
       .setState(`ไม่ตอบ = ไม่อยู่/ทำงาน/เล่นเกม`)
       .setName(`RobShop`)
-      .setDetails(`꒰ Pppcy.st ꒱ Dm 24/7 ˎˊ˗`)
+      .setDetails(`꒰ IG: pppcy.st ꒱ Dm 24/7 ˎˊ˗`)
       //.setAssetsSmallImage(`${popp}`) 
 .setAssetsLargeImage(`${ssss}`)
 .setAssetsLargeText(`꒰ ${getTime()} ꒱ ${moment().format('• ꒰ DD/MM/YYYY ꒱')}`)
