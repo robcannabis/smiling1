@@ -41,7 +41,7 @@ client.on('ready', async () => {
     const ddds = ['https://youtube.com/@smiling23?si=YGr3YSSafKuJgLBE']; // ลิ้ง button1
 
    const iooi = ['Join My Server ♡']; // ชื่อ button 2
-   const iiio = ['https://discord.gg/jvbMspxG93']; // ลิ้ง button 2
+   const iiio = ['https://discord.gg/aVT48FfSwC']; // ลิ้ง button 2
    const tyyy = yyyt[Math.floor(Math.random()*yyyt.length)]; // ชื่อ button 2
    const sddd = ddds[Math.floor(Math.random()*ddds.length)]; // ลิ้ง button 2
    const oooi = 
