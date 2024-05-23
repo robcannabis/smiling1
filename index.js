@@ -34,7 +34,7 @@ client.on('ready', async () => {
   setInterval(() => {
     const moment = require('moment');
     const created = moment().format('YYYY-MM-DD HH:mm:ss ');
-    const change = ['https://cdn.discordapp.com/attachments/1176194821698879608/1213195868916678736/v1241.gif?ex=66328e33&is=66313cb3&hm=b1d5ce958f56430440f14a81ed33513c8de89af8c134f5bc0e3bcef15188af7a&']; //รูปใหญ่
+    const change = ['https://cdn.discordapp.com/attachments/1176194821698879608/1213195868916678736/v1241.gif?ex=664f8f33&is=664e3db3&hm=a88becf4bb0d5d8f756efe823bb88e6a9aa7002d59bd45a12207ceabd6e363e2&']; //รูปใหญ่
      //const poop = ['https://cdn.discordapp.com/attachments/1114551993499918438/1122462459710681170/1095697715238797403.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460817977395/1095697740543049819.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460125921341/1095697719189844048.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1116029023957561425/1110570045454696509.gif']; // รูปเล็ก
     const change2 = [' ']; // ชื่อสลับ
     const yyyt = ['Smiling·˚ ༘']; // ชื่อ button1
