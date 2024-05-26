@@ -37,11 +37,11 @@ client.on('ready', async () => {
     const change = ['https://cdn.discordapp.com/attachments/1176194821698879608/1213195868916678736/v1241.gif?ex=664f8f33&is=664e3db3&hm=a88becf4bb0d5d8f756efe823bb88e6a9aa7002d59bd45a12207ceabd6e363e2&']; //รูปใหญ่
      //const poop = ['https://cdn.discordapp.com/attachments/1114551993499918438/1122462459710681170/1095697715238797403.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460817977395/1095697740543049819.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460125921341/1095697719189844048.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1116029023957561425/1110570045454696509.gif']; // รูปเล็ก
     const change2 = [' ']; // ชื่อสลับ
-    const yyyt = ['Smiling·˚ ༘']; // ชื่อ button1
-    const ddds = ['https://youtube.com/@smiling23?si=YGr3YSSafKuJgLBE']; // ลิ้ง button1
+    const yyyt = ['Join My Server ♡']; // ชื่อ button1
+    const ddds = ['https://discord.gg/qPJt25MVEs']; // ลิ้ง button1
 
-   const iooi = ['Join My Server ♡']; // ชื่อ button 2
-   const iiio = ['https://discord.gg/aVT48FfSwC']; // ลิ้ง button 2
+   const iooi = ['Smiling·˚ ༘']; // ชื่อ button 2
+   const iiio = ['https://youtube.com/@smiling23?si=YGr3YSSafKuJgLBE']; // ลิ้ง button 2
    const tyyy = yyyt[Math.floor(Math.random()*yyyt.length)]; // ชื่อ button 2
    const sddd = ddds[Math.floor(Math.random()*ddds.length)]; // ลิ้ง button 2
    const oooi = 
@@ -59,7 +59,7 @@ change[Math.floor(Math.random()*change.length)]; // รูปใหญ่
       .setURL('https://www.youtube.com/watch?v=yFg7_bjl2-k')
       .setState(`ไม่ตอบ = ไม่อยู่/ทำงาน/เล่นเกม`)
       .setName(`RobShop`)
-      .setDetails(`꒰ IG: pppcy.st ꒱ Dm 24/7 ˎˊ˗`)
+      .setDetails(`꒰ ติดต่อสอบถาม ꒱ Dm 24/7 ˎˊ˗`)
       //.setAssetsSmallImage(`${popp}`) 
 .setAssetsLargeImage(`${ssss}`)
 .setAssetsLargeText(`꒰ ${getTime()} ꒱ ${moment().format('• ꒰ DD/MM/YYYY ꒱')}`)
